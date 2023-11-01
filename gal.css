@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0%;
+    font-family: century;}
+body{
+    background-image: linear-gradient(to right,violet , white);
+    }
+header{
+    font-size: 50px;
+    text-align: center;
+    background-image: linear-gradient(to right,violet , white);
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px 10px black;
+}
+h1{
+    font-family: 'Brush Script MT', cursive;
+}
+a{
+    font-family: 'Brush Script MT', cursive ;
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    transition: .4s ease-in-out;
+}
+a:hover{
+    color: brown;
+    font-size: 50px
+}
+img {
+	width: 400px;
+	height: auto;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    border-radius: 25px;
+}
+.img-wrapper img:hover img {
+	width: 300px;
+}
+
+.img-1{
+    display:flex;
+    height: 300px;
+    width: 100px;
+    gap: 68px;
+    margin-left:50px;
+    margin-top: 50px;
+    transition: 0.4s ease-in-out;
+}
+.img-2{
+    display:flex;
+    height: 300px;
+    width: 100px;
+    gap: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.img-3{
+    display:flex;
+    height: 300px;
+    width: 100px;
+    gap: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}.img-4{
+    display:flex;
+    height: 300px;
+    width: 100px;
+    gap: 68px;
+    margin-left: 50px;
+    margin-top: 50px;   
+}  
+.img-6{
+    display:flex;
+    height: 300px;
+    width: 150px;
+    gap: 68px;
+    margin-left: 50px;
+    margin-top: 50px;   
+}
+.img-7{
+    display:flex;
+    height: 300px;
+    width: 100px;
+    gap: 68px;
+    margin-left: 760px;
+    margin-top: 50px;   
+}
+

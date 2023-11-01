@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: century;
+}
+body{
+background-color: rgb(255, 255, 255);
+    background-size:auto;
+  
+}
+h1{
+    font-size: 35px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 35px;
+}
+nav{
+    color: black;
+        font-size: 35px;
+        font-family: cursive;
+}
+img{
+    height: 500px;
+    width: 750px;
+    margin-left: 600px;
+}
